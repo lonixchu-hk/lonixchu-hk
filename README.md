@@ -4,7 +4,7 @@
 Here's Lonix Chu and I'm a results-oriented software developer with expertise in CRM, retail, and e-commerce. I excel in web and software development, project management, and cloud computing. My experience includes leading cross-functional teams and delivering innovative solutions that drive business growth.
 
 ## Experience
-- **Current Position**: Software Developer at MaBelle Jewellery Company Limited
+- **Current Position**: Analyst Programmer 1 at MTR Corporation Limited
 - **Location**: Kowloon, Hong Kong SAR
 
 ## Skills and Expertise
